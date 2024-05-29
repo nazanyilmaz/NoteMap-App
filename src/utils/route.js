@@ -1,0 +1,14 @@
+export const HOME = 'MapHome';
+export const DETAIL = 'Detail';
+export const NOTES = 'Notes';
+export const ADDNOTE = 'Add Note';
+export const UPDATENOTE = 'Update Note';
+export const SIGNIN = 'Sign In';
+export const SIGNUP = 'Sign Up';
+export const LAUNCH = 'Launch';
+export const PROFILE = 'Profile';
+export const TAB = 'Tab';
+export const FAVORITE = 'Favorite';
+export const COORDINATE = 'Coordinate';
+export const ADDPLACE = 'Add Place';
+export const PROFILEUPDATE = 'Profile Update';
